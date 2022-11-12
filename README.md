@@ -1,7 +1,9 @@
 - 🦦 hello! my name is evan
 - 🌛 undergrad CSSE student at UWB
 - 🥕 software dev enjoyer
-- [Best Cone Pictures](https://photos.app.goo.gl/FaeCkL8m6gk2nyLD6)
+- [Best Cone Pictures]()
+- <a href="https://www.google.com/](https://photos.app.goo.gl/FaeCkL8m6gk2nyLD6" target="_blank">Google</a>
+
 
 <!---
 evanjgrey/evanjgrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
