@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @evanjgrey
-- 👀 I’m interested in swing jazz
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🦦 hello! my name is evan
+- 🌛 undergrad CSSE student at UWB
+- 🥕 software dev enjoyer
+- [Best Cone Pictures](https://photos.app.goo.gl/FaeCkL8m6gk2nyLD6)
 
 <!---
 evanjgrey/evanjgrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
