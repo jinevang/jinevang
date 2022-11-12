@@ -1,8 +1,7 @@
 - 🦦 hello! my name is evan
 - 🌛 undergrad CSSE student at UWB
 - 🥕 software dev enjoyer
-- [Best Cone Pictures]()
-- <a href="https://www.google.com/](https://photos.app.goo.gl/FaeCkL8m6gk2nyLD6" target="_blank">Google</a>
+- 📷 check out the <a href="https://photos.app.goo.gl/FaeCkL8m6gk2nyLD6" target="_blank">best cone pictures</a>
 
 
 <!---
