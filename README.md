@@ -1,8 +1,8 @@
 # hello!
 ### who is this person?
-- 🦦 my name is evan
+- 🦦 my name is evan                                                                      
 - 🌛 undergrad CSSE student at UWB
-- 🥕 software dev enjoyer
+- 🥕 hoping to become a software dev enjoyer 
 - 🍚 learning c++
 - 📷 take a look at the [best cone pictures](https://photos.app.goo.gl/FaeCkL8m6gk2nyLD6)
 
