@@ -1,6 +1,6 @@
 # hello!
 
-visit [my website](https://www.jinevang.com)
+visit my [website - jinevang.com](https://www.jinevang.com)
 
 ### who is this person?
 - 🦦 my name is evan                                                                  
