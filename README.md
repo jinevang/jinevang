@@ -17,16 +17,17 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 04 December 2024
+From: 23 October 2024 - To: 05 December 2024
 
-Total Time: 89 hrs 19 mins
+Total Time: 91 hrs 37 mins
 
-TypeScript    76 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>----   85.48 %
-Python        7 hrs 1 min     >>-----------------------   07.85 %
-PHP           2 hrs 46 mins   >------------------------   03.10 %
-JSON          2 hrs           >------------------------   02.24 %
-JavaScript    25 mins         -------------------------   00.47 %
-CSS           15 mins         -------------------------   00.28 %
+TypeScript    78 hrs 35 mins  >>>>>>>>>>>>>>>>>>>>>----   85.58 %
+Python        7 hrs 1 min     >>-----------------------   07.65 %
+PHP           2 hrs 46 mins   >------------------------   03.02 %
+JSON          2 hrs           >------------------------   02.18 %
+JavaScript    25 mins         -------------------------   00.46 %
+Markdown      16 mins         -------------------------   00.31 %
+CSS           15 mins         -------------------------   00.27 %
 Other         12 mins         -------------------------   00.23 %
 ```
 
